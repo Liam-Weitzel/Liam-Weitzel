@@ -1,7 +1,7 @@
 
 ## Hi! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25" height="25">
 
-I'm Liam. I'm currently studying Computer Science (Bsc) in the UK at Liverpool Hope University. I'm doing a placement in Luxembourg at Amazon as a BIE Intern. You can find me on [![Discord][1]][1.1], [![Telegram][2]][2.1], [![StackOverflow][5]][5.1], [![LeetCode][6]][6.1], [![Gmail][3]][3.1] and on [![LinkedIn][4]][4.1]. Check out my portfolio website at <a href="https://liam-w.com"> liam-w.com</a>.
+I'm Liam. I'm currently studying Computer Science (Bsc) in the UK at Liverpool Hope University. You can find me on [![Discord][1]][1.1], [![Telegram][2]][2.1], [![StackOverflow][5]][5.1], [![LeetCode][6]][6.1], [![Gmail][3]][3.1] and on [![LinkedIn][4]][4.1]. Check out my portfolio website at <a href="https://liam-w.com"> liam-w.com</a>.
 
 
 ### 🔧 Tools & Languages I use
