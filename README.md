@@ -15,7 +15,7 @@ I'm Liam. I'm currently studying Computer Science (Bsc) in the UK at Liverpool H
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/Liam-Weitzel/Liam-Weitzel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Weitzel&title_color=ffffff&text_color=c9cacc&icon_color=4f7cba&bg_color=11161d&hide_title=true&langs_count=5&hide_border=true&hide=javascript,html,css"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Weitzel&title_color=ffffff&text_color=c9cacc&icon_color=4f7cba&bg_color=11161d&hide_title=true&langs_count=3&hide_border=true&hide=javascript,html,css"/>
 </a>
 <a href="https://github.com/Liam-Weitzel/Liam-Weitzel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liam-Weitzel&show_icons=true&line_height=27&count_private=true&title_color=4f7cba&text_color=c9cacc&icon_color=4f7cba&bg_color=11161d&include_all_commits=true&hide_title=true&hide_rank=false&hide_border=true" alt="Stats"/>
@@ -23,7 +23,7 @@ I'm Liam. I'm currently studying Computer Science (Bsc) in the UK at Liverpool H
 
 <a></a>
 
-![pageviews](https://visitor-badge.glitch.me/badge?page_id=Liam-Weitzel)
+<!-- ![pageviews](https://visitor-badge.glitch.me/badge?page_id=Liam-Weitzel2) -->
 ![follow-button](https://img.shields.io/github/followers/Liam-Weitzel?label=follow%20mee%21&style=social)
 
 <!-- links to social media icons -->
