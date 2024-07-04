@@ -1,19 +1,8 @@
 
 ## Hi! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25" height="25">
 
-I'm Liam. I'm currently studying Computer Science (Bsc) in the UK at Liverpool Hope University. You can find me on [![Discord][1]][1.1], [![Telegram][2]][2.1], [![StackOverflow][5]][5.1], [![LeetCode][6]][6.1], [![Gmail][3]][3.1] and on [![LinkedIn][4]][4.1]. Check out my portfolio website at <a href="https://liam-w.com"> liam-w.com</a>.
+I'm Liam. You can find me on [![Discord][1]][1.1], [![Telegram][2]][2.1], [![StackOverflow][5]][5.1], [![LeetCode][6]][6.1], [![Gmail][3]][3.1] and on [![LinkedIn][4]][4.1]. Check out my portfolio website at <a href="https://liam-w.com"> liam-w.com</a>.
 
-
-### 🔧 Tools & Languages I use
-![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/LinuxMint-informational?style=flat&logo=LinuxMint&logoColor=white)
-![](https://img.shields.io/badge/-JetBrains-informational?style=flat&logo=JetBrains&logoColor=white)
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c++&logoColor=white)
-![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
-
-### &#x1f4c8; GitHub Stats
 <a href="https://github.com/Liam-Weitzel/Liam-Weitzel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Weitzel&title_color=ffffff&text_color=c9cacc&icon_color=4f7cba&bg_color=11161d&hide_title=true&langs_count=3&hide_border=true&hide=javascript,html,css"/>
 </a>
