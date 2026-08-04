@@ -1,9 +1,7 @@
 
-## Hi! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25" height="25">
+Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="15" height="15">
 
-You can find me on [![Discord][1]][1.1], [![Telegram][2]][2.1], [![StackOverflow][5]][5.1], [![LeetCode][6]][6.1], [![Gmail][3]][3.1] and on [![LinkedIn][4]][4.1]. Check out my portfolio website at <a href="https://liam-w.com"> liam-w.com</a>.
-
-<a></a>
+📫 Reach me here [![Discord][1]][1.1] [![Telegram][2]][2.1] [![Gmail][3]][3.1] [![LinkedIn][4]][4.1]
 
 <!-- links to social media icons -->
 
@@ -20,5 +18,3 @@ You can find me on [![Discord][1]][1.1], [![Telegram][2]][2.1], [![StackOverflow
 [2.1]: https://t.me/LiamWeitzel
 [3.1]: mailto:liam.weitzel@gmail.com
 [4.1]: https://www.linkedin.com/in/liam-weitzel-b831b51a5/
-[5.1]: https://stackoverflow.com/users/8452769/liam-weitzel?tab=profile
-[6.1]: https://leetcode.com/Liam-W/
